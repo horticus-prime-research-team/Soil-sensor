@@ -1,4 +1,4 @@
-# Soil-sensor
+# Soil Sensor
 DevStation, Apprenti, CodeFellows 401 Final project brought to you by:
 
 ### Group Members of Horticus-Prime Research Team:
